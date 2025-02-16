@@ -1,0 +1,447 @@
+[
+    {
+        "S.NO": "1",
+        "Industry Name": "M/s. vapt company",
+        "Categories": "Battery waste",
+        "Name": "VApt person name",
+        "Email": "senthil.s.web.india4@gmail.com",
+        "Phone Number": "7445511891",
+        "District": "KANNIYAKUMARI",
+        "Address": "test address , KANNIYAKUMARI - 600001"
+    },
+    {
+        "S.NO": "2",
+        "Industry Name": "M/s. Laxmi ewaste",
+        "Categories": "E-waste, Plastic waste",
+        "Name": "Elango",
+        "Email": "spbala@digicrews.com",
+        "Phone Number": "7858388842",
+        "District": "CHENNAI",
+        "Address": "22, 1st main road Sidco, Guindy , CHENNAI - 600032"
+    },
+    {
+        "S.NO": "3",
+        "Industry Name": "M/s. steel Industry",
+        "Categories": "Fly Ash, Tyre waste, aravind, Battery waste, E-waste",
+        "Name": "Kanthakumar",
+        "Email": "kanthakumar@webindia.com",
+        "Phone Number": "7539982619",
+        "District": "CHENNAI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , CHENNAI - 600016"
+    },
+    {
+        "S.NO": "4",
+        "Industry Name": "M/s. Tes-amm India Private Limited",
+        "Categories": "E-waste",
+        "Name": "Sathish",
+        "Email": "sathish.s@tes-amm.net",
+        "Phone Number": "9840699101",
+        "District": "KANCHEEPURAM",
+        "Address": "A 18, Sipcot Industrial Growth center , KANCHEEPURAM - 631604"
+    },
+    {
+        "S.NO": "5",
+        "Industry Name": "M/s. webindia internet services chennai pvt ltd",
+        "Categories": "Battery waste, Tyre waste, E-waste",
+        "Name": "Senthil",
+        "Email": "generatorwaste@gmail.com",
+        "Phone Number": "9843129133",
+        "District": "CHENNAI",
+        "Address": "1045,P.H.Road Arumbakkam , CHENNAI - 600106"
+    },
+    {
+        "S.NO": "6",
+        "Industry Name": "M/s. Sword Industry1",
+        "Categories": "Thermocol waste, E-waste, Battery waste",
+        "Name": "zaheer",
+        "Email": "maninan0803@gmail.com",
+        "Phone Number": "6767676121",
+        "District": "CHENNAI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , CHENNAI - 600123"
+    },
+    {
+        "S.NO": "7",
+        "Industry Name": "KKC Battery Private limited",
+        "Categories": "Plastic waste, E-waste, Battery waste, Paint sludge",
+        "Name": "Kumar",
+        "Email": "generator@gmail.com",
+        "Phone Number": "8943129155",
+        "District": "CHENNAI",
+        "Address": "1045,P.H.Road Arumbakkam , CHENNAI - 600106"
+    },
+    {
+        "S.NO": "8",
+        "Industry Name": "M/s. Rocks Bulding12",
+        "Categories": "Thermocol waste, Ferrous scraps, Battery waste",
+        "Name": "zaheer",
+        "Email": "joyboy@gmail.com",
+        "Phone Number": "1908901923",
+        "District": "CHENNAI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , CHENNAI - 600032"
+    },
+    {
+        "S.NO": "9",
+        "Industry Name": "M/s. Rocks building12",
+        "Categories": "Construction and Demolition, Battery waste, E-waste",
+        "Name": "zaheer",
+        "Email": "nami@gmail.com",
+        "Phone Number": "1231238767",
+        "District": "CHENNAI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , CHENNAI - 600123"
+    },
+    {
+        "S.NO": "10",
+        "Industry Name": "Rocks building12",
+        "Categories": "Waste oil, Rubber waste, E-waste",
+        "Name": "santhanam",
+        "Email": "sss123@sss.sss",
+        "Phone Number": "8701200006",
+        "District": "SALEM",
+        "Address": "sample new , SALEM - 626127"
+    },
+    {
+        "S.NO": "11",
+        "Industry Name": "Rocks building121",
+        "Categories": "Battery waste, Waste oil, Ferrous scraps",
+        "Name": "zaheer",
+        "Email": "asder@gmail.com",
+        "Phone Number": "1230987654",
+        "District": "NAGAPATTINAM",
+        "Address": "#12, Mount Salai, alandur metro, alandur , NAGAPATTINAM - 600123"
+    },
+    {
+        "S.NO": "12",
+        "Industry Name": "test6345",
+        "Categories": "E-waste, Waste oil",
+        "Name": "zaheer",
+        "Email": "sawamara@gmail.com",
+        "Phone Number": "9876512340",
+        "District": "KRISHNAGIRI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , KRISHNAGIRI - 600123"
+    },
+    {
+        "S.NO": "13",
+        "Industry Name": "Rocks building12",
+        "Categories": "Battery waste, afdwrf",
+        "Name": "zaheer",
+        "Email": "miyuki@gmail.com",
+        "Phone Number": "6543210987",
+        "District": "KANNIYAKUMARI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , KANNIYAKUMARI - 600123"
+    },
+    {
+        "S.NO": "14",
+        "Industry Name": "xyx private limited",
+        "Categories": "dummy",
+        "Name": "sithika",
+        "Email": "senthilkumar@webindia.com",
+        "Phone Number": "6789000000",
+        "District": "KALLAKURICHI",
+        "Address": "kaliyamman koil street , KALLAKURICHI - 600032"
+    },
+    {
+        "S.NO": "15",
+        "Industry Name": "uuuuu",
+        "Categories": "newwwwwwwwwwwww",
+        "Name": "testtt",
+        "Email": "ahamedrrrr@webindia.com",
+        "Phone Number": "8877777778",
+        "District": "KANNIYAKUMARI",
+        "Address": "#23, rrrrr , KANNIYAKUMARI - 698898"
+    },
+    {
+        "S.NO": "16",
+        "Industry Name": "M/s. tecnosolutions private limited",
+        "Categories": "Copper dross/mill scales/reverts, Battery waste",
+        "Name": "Rajtest",
+        "Email": "senthi.lswebindia@gmail.com",
+        "Phone Number": "9843144554",
+        "District": "KANCHEEPURAM",
+        "Address": "sample pillayar koil street,Anna nagar , KANCHEEPURAM - 123456"
+    },
+    {
+        "S.NO": "17",
+        "Industry Name": "JeevaTech",
+        "Categories": "Ferrous scraps, E-waste",
+        "Name": "pothirajtest raj",
+        "Email": "pothiraj88@gamail.com",
+        "Phone Number": "9944002092",
+        "District": "ARIYALUR",
+        "Address": "22 , ARIYALUR - 600107"
+    },
+    {
+        "S.NO": "18",
+        "Industry Name": "Rocks building12",
+        "Categories": "Battery waste",
+        "Name": "zaheer",
+        "Email": "zahnneer@webindia.com",
+        "Phone Number": "9050178204",
+        "District": "CHENNAI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , CHENNAI - 600123"
+    },
+    {
+        "S.NO": "19",
+        "Industry Name": "sample industry name 2 limited1",
+        "Categories": "Spent ion exchange resin containing metals",
+        "Name": "ilayaraja",
+        "Email": "senthilsahap.than@gmail.com",
+        "Phone Number": "9863129155",
+        "District": "CHENNAI",
+        "Address": "7/8,Round building anna nagr west extn , CHENNAI - 626128"
+    },
+    {
+        "S.NO": "20",
+        "Industry Name": "arjun industry limited",
+        "Categories": "Waste oil, Rubber waste",
+        "Name": "Arjun",
+        "Email": "arjun@webindia.com",
+        "Phone Number": "9811111111",
+        "District": "MAYILADUTHURAI",
+        "Address": "address 2 , MAYILADUTHURAI - 600032"
+    },
+    {
+        "S.NO": "21",
+        "Industry Name": "Prem industry Private limited",
+        "Categories": "Battery waste, E-waste, Spent solvents, Fly Ash",
+        "Name": "Premkumar",
+        "Email": "prem@webindia.com",
+        "Phone Number": "8888888888",
+        "District": "MAYILADUTHURAI",
+        "Address": "Address line 1 gfgfgf , MAYILADUTHURAI - 455665"
+    },
+    {
+        "S.NO": "22",
+        "Industry Name": "Test Industry",
+        "Categories": "Battery waste",
+        "Name": "Ajitha",
+        "Email": "ajithamol.a@webindia.com",
+        "Phone Number": "1234567895",
+        "District": "NAGAPATTINAM",
+        "Address": "Chennai , NAGAPATTINAM - 600040"
+    },
+    {
+        "S.NO": "23",
+        "Industry Name": "goodwill automotive systems",
+        "Categories": "Battery waste, Other wastes, Hazardous wastes",
+        "Name": "Yuvaraj",
+        "Email": "senthilswebindia.2@gmail.com",
+        "Phone Number": "9843129161",
+        "District": "ERODE",
+        "Address": "# 10/8,Round Building,Anna nagar West Extn,.pvt limited , ERODE - 600032"
+    },
+    {
+        "S.NO": "24",
+        "Industry Name": "SP Oil Industry",
+        "Categories": "Waste oil",
+        "Name": "BALA KRISHNAN",
+        "Email": "spbala@webindia.com",
+        "Phone Number": "9940382296",
+        "District": "MADURAI",
+        "Address": "No 1, main road, Kk Nagar , MADURAI - 625020"
+    },
+    {
+        "S.NO": "25",
+        "Industry Name": "sample industry name 4",
+        "Categories": "Tyre waste, E-waste, Plastic waste, Thermocol waste, Battery waste",
+        "Name": "kumar",
+        "Email": "senthilswebindia3@gmail.com",
+        "Phone Number": "7338816683",
+        "District": "ERODE",
+        "Address": "10/8,Round Building,Anna nagar , ERODE - 626128"
+    },
+    {
+        "S.NO": "26",
+        "Industry Name": "vijayakumar",
+        "Categories": "used oil cloth waste",
+        "Name": "kamalakannan",
+        "Email": "s.enthilsahapthan@gmail.com",
+        "Phone Number": "9843129160",
+        "District": "CHENNAI",
+        "Address": "12, Bharathi Street, Pondy Bazaar, T. Nagar, , CHENNAI - 600101"
+    },
+    {
+        "S.NO": "27",
+        "Industry Name": "JeevaTech",
+        "Categories": "Used oil",
+        "Name": "pothirajtest raj",
+        "Email": "raj@webindia.com",
+        "Phone Number": "9944008092",
+        "District": "THOOTHUKKUDI",
+        "Address": "235dwtr342r2r , THOOTHUKKUDI - 628002"
+    },
+    {
+        "S.NO": "28",
+        "Industry Name": "Sample industry 3",
+        "Categories": "Spent acid and alkali, E-waste",
+        "Name": "senthilkumar sss",
+        "Email": "senthilswebindia2@gmail.com",
+        "Phone Number": "9843129158",
+        "District": "CHENGALPATTU",
+        "Address": "1045 p h road. Arumbakkam , CHENGALPATTU - 600101"
+    },
+    {
+        "S.NO": "29",
+        "Industry Name": "Sample industry name1",
+        "Categories": "Waste oil",
+        "Name": "Senthilkumar",
+        "Email": "senthilswebindia@gmail.com",
+        "Phone Number": "9843129156",
+        "District": "VIRUDHUNAGAR",
+        "Address": "# 10/8,Round Building,Anna nagar West Extn,. , VIRUDHUNAGAR - 626128"
+    },
+    {
+        "S.NO": "30",
+        "Industry Name": "Rocks building12",
+        "Categories": "Battery waste",
+        "Name": "Mohamed zaheer",
+        "Email": "zahee.r@webindia.com",
+        "Phone Number": "7550178267",
+        "District": "CHENNAI",
+        "Address": "#12, Mount Salai, alandur metro, alandur , CHENNAI - 600123"
+    },
+    {
+        "S.NO": "31",
+        "Industry Name": "ungal nanban Private limited",
+        "Categories": "Local Bodies Waste",
+        "Name": "Senthilkumar",
+        "Email": "senthils@webindia.com",
+        "Phone Number": "9843129155",
+        "District": "ARIYALUR",
+        "Address": "# 10/8,Round Building,Anna nagar West Extn,. , ARIYALUR - 626128"
+    },
+    {
+          "S.NO": "32",
+          "Name": "M/s A.K. Enterprises",
+          "Address": "No:12, Chakarapani Street, Velacherry, Chennai – 600032",
+          "Phone Number": "9176664862",
+          "Email": "akenter06@gmail.com"
+        },
+            {
+                "S.NO": "33",
+                "Name": "M/s Abishek Enterprises",
+                "Address": "SF No. 2G, North Phase, Ambattur, Chennai – 600098",
+                "Phone Number": "9884057878",
+                "Email": "enterprisesabishek@gmail.com"
+            },
+            {
+                "S.NO": "34",
+                "Name": "M/s AER Worldwide India Pvt Ltd",
+                "Address": "SF No.774, Elandandheri, Sadayankuppam village, Manali New Town, Chennai – 600103",
+                "Phone Number": "9940105999",
+                "Email": "jkumar@aerworldwide.com, akaja@aerworld.com"
+            },
+            {
+                "S.NO": "35",
+                "Name": "M/s Arockia Enterprises",
+                "Address": "S.F.No.4/1E, Seevaram village, Sholinganallur taluk, Chennai – 600097",
+                "Phone Number": "9551044431",
+                "Email": "associates.grid@gmail.com"
+            },
+            {
+                "S.NO": "36",
+                "Name": "M/s Blooming Recyclers",
+                "Address": "Plot. No. D9/2, SIDCO Industrial Estate, Maraimalai Nagar, Kizhikaranai village, Chengalpattu district",
+                "Phone Number": "9840160149",
+                "Email": "bloomingrecycles@gmail.com"
+            },
+            {
+                "S.NO": "37",
+                "Name": "M/s Earth Sense Recycle Private Limited",
+                "Address": "SF No. 247, Thenmelpakkam village, Chengalpattu taluk, Chengalpattu district",
+                "Phone Number": "9962222459",
+                "Email": "ewastechennai@earthsense.in"
+            },
+            {
+                "S.NO": "38",
+                "Name": "M/s E PROCESS House c/o Bharat Electronics Limited",
+                "Address": "SF No 3 & 10/1 Nanthambakkam village, Alandur taluk, Chengalpattu district",
+                "Phone Number": "--",
+                "Email": "--"
+            },
+            {
+                "S.NO": "39",
+                "Name": "M/s Enviro Green E-waste Recycling Solutions",
+                "Address": "SF No. 2134, Palur village, Chengalpattu taluk, Chengalpattu district",
+                "Phone Number": "9445050342",
+                "Email": "envirogreenewaste@gmail.com"
+            },
+            {
+                "S.NO": "40",
+                "Name": "M/s Leela Traders",
+                "Address": "SF No. 41/1 part, Cuddaloor village, Chengalpattu taluk, Chengalpattu district",
+                "Phone Number": "9380888877",
+                "Email": "info@leelatraders.co.in, v.kumaran@hotmail.com"
+            },
+            {
+                "S.NO": "41",
+                "Name": "ZEB CARE (Coimbatore)",
+                "Address": "47/D, Valli Towers, First Floor, Radhakrishna Road, Opp to Karuna Suzuki, Tatabad, Coimbatore, Tamil Nadu - 641012",
+                "Phone Number": "04223504727",
+                "Email": "coimbatore.service@zebcare.in"
+            },
+            {
+                "S.NO": "42",
+                "Name": "M/s. Green Era Recyclers",
+                "Address": "SF No. 344/2, Kavundampalayam village, Coimbatore North taluk, Coimbatore district – 641025",
+                "Phone Number": "9965664526, 8300223526",
+                "Email": "prasanth@thegreenera.in"
+            },
+            {
+                "S.NO": "43",
+                "Name": "M/s. Green India Recyclers",
+                "Address": "SF No. 26/1B, Kovilpalayam road, Soolakkal village, Kinathukadavu taluk, Coimbatore – 642110",
+                "Phone Number": "9003491034, 9894940304",
+                "Email": "info@greenindiarecyclers.com"
+            },
+            {
+                "S.NO": "44",
+                "Name": "Tharani Electronics Waste",
+                "Address": "1b, P M Swamy Colony, Rathinapuri, Coimbatore",
+                "Phone Number": "9171450039",
+                "Email": "tharaniewast00@gmail.com, tharaniewast100@gmail.com"
+            },
+            {
+                "S.NO": "45",
+                "Name": "ZEB CARE (Madurai)",
+                "Address": "30 First Floor, Krishnarayar Tank Street, Near Hanuman Temple, Madurai, Tamil Nadu - 625001",
+                "Phone Number": "0452-4377340, 9944861446",
+                "Email": "madurai.service@zebcare.in"
+            },
+            {
+                "S.NO": "46",
+                "Name": "Rajapandi Waste Paper Store",
+                "Address": "126A, Kamatchi Nagar, Vilangudi, Madurai",
+                "Phone Number": "092457 39706"
+            },
+            {
+                "S.NO": "47",
+                "Name": "Sri Balaji Waste Paper Store",
+                "Address": "155, Chitrakkara Street, Keelavasal, Madurai Main, Madurai",
+                "Phone Number": "093452 09725"
+            },
+            {
+                "S.NO": "48",
+                "Name": "Sri Annamalaiyar Waste Paper Store",
+                "Address": "123-206, East Perumal Maistry Street, Chithirakara Street, Madurai"
+            },
+            {
+                "S.NO": "49",
+                "Name": "Sri Eswari Waste Paper Store",
+                "Address": "15, Corporation Complex, Nanmai Tharuvar Koil Street, West Masi Street, Madurai",
+                "Phone Number": "098421 84070"
+            },
+            {
+                "S.NO": "50",
+                "Name": "M/s. TES-AMM INDIA PVT LTD",
+                "Address": "Plot No. A18, SIPCOT Industrial Growth Centre, Oragadam, Sriperumbudur Taluk, Kancheepuram Dist",
+                "Phone Number": "9500064318, 9176755506",
+                "Email": "kishorekumar.s@tes-amm.net"
+            },
+            {
+                "S.NO": "51",
+                "Name": "M/s. Enviro Metals Recyclers Private Limited",
+                "Address": "S.No. 104 and 106, Ezichur Village, Sriperumbudur Tk, Kancheepuram District",
+                "Phone Number": "9789968030",
+                "Email": "anbu@ensenviro.com"
+            }
+]
