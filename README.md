@@ -1,16 +1,31 @@
-# ewaste
+# EcoTrack
 
-A new Flutter project.
+EcoTrack is a Flutter-based mobile application designed to help users locate nearby e-waste recycling centers and provide optimized routes to reach them. The app aims to promote responsible e-waste disposal and sustainability.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Locate Nearby Recycling Centers**: Uses GPS to find and list the nearest authorized e-waste recycling facilities.
+- **Route Navigation**: Provides optimized routes to the selected recycling center using Google Maps API.
+- **E-Waste Awareness**: Educates users on proper e-waste disposal methods.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK installed ([Download Flutter](https://flutter.dev/docs/get-started/install))
+- Dart installed
+- Android Studio or Visual Studio Code (VS Code) with Flutter extension
+- Google Maps API Key (for navigation features)
+
+### Steps
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/your-username/ecotrack.git
+   cd ecotrack
+
+2. flutter pub get
+
+3. flutter run
