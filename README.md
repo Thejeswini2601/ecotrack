@@ -23,7 +23,7 @@ EcoTrack is a Flutter-based mobile application designed to help users locate nea
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/ecotrack.git
+   git clone https://github.com/Thejeswini2601/ecotrack.git
    cd ecotrack
 
 2. flutter pub get
